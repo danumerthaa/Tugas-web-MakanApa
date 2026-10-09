@@ -1,3 +1,9 @@
+<img width="1907" height="1072" alt="tailwind css tambah menu" src="https://github.com/user-attachments/assets/58321f6e-86eb-4e90-ba8f-ef834aab03f5" />
+<img width="1917" height="1076" alt="tailwind css halaman utama " src="https://github.com/user-attachments/assets/63280070-8b78-4908-b68a-ce62f0fb25c5" />
+<img width="1897" height="1062" alt="Tailwind css daftar menu" src="https://github.com/user-attachments/assets/b9438b53-92a6-49fe-a558-d2d7cb6727b5" />
+<img width="395" height="868" alt="tailwind css mobile tambah menu" src="https://github.com/user-attachments/assets/31255ecd-dc09-440d-ba39-cafd6116de6e" />
+<img width="385" height="863" alt="tailwind css mobile daftar menu" src="https://github.com/user-attachments/assets/a7a8f2c3-7783-43b4-92b9-28b71568b807" />
+<img width="390" height="860" alt="tailwind css mobile halaman utama" src="https://github.com/user-attachments/assets/d5cf3a06-cdf7-49da-87db-ad7bd59b943a" />
 <img width="387" height="865" alt="tambah menu mobile" src="https://github.com/user-attachments/assets/f2eb635e-ecb8-4533-a5dd-0370cc92ef4b" />
 <img width="387" height="867" alt="daftar menu mobile" src="https://github.com/user-attachments/assets/40fcb91f-0d0f-42ce-80fe-5077c79bec1a" />
 <img width="390" height="863" alt="halaman utama mobile" src="https://github.com/user-attachments/assets/2dc5a27c-ed8e-48ba-bef9-edda7a825894" />
