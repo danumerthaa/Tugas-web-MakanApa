@@ -2,54 +2,62 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>MakanApa - Daftar Menu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daftar Menu - MakanApa</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
     <header>
-        <h1>MakanApa <span class="ikon-emoji">🍲</span></h1>
+        <h1>MakanApa</h1>
         <nav>
             <ul>
                 <li><a href="halaman_utama.html">Beranda</a></li>
-                <li><a href="daftar_menu.html">Daftar Menu</a></li>
-                <li><a href="tambah_menu.html">Tambah Menu</a></li>
+                <li><a href="daftar_menu.html" style="background-color: white; color: #2e7d32;">Daftar Menu</a></li>
             </ul>
         </nav>
     </header>
+
     <main>
         <div class="container">
-            <h2>Daftar Menu Tersedia</h2>
-            <p>Berikut adalah daftar tempat makan yang akan diacak oleh sistem:</p>
+            <h2>Manajemen Menu MakanApa</h2>
+            <p id="total-menu-text">Total Menu Tersedia: 0</p>
+
             <table>
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>Nama Makanan / Tempat</th>
-                        <th>Estimasi Harga</th>
+                        <th>Nama Makanan</th>
+                        <th>Kategori</th>
                     </tr>
                 </thead>
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>Ayam Rempah Warisan</td>
-                        <td>Rp 23.000</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>Paket Ayam Hisana</td>
-                        <td>Rp 18.000</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Ayam Baghdad</td>
-                        <td>Rp 14.000</td>
-                    </tr>
+                <tbody id="tabel-menu-body">
                 </tbody>
             </table>
+
+            <div id="notif-container" style="display: none; padding: 10px; margin-bottom: 15px; border-radius: 4px; text-align: center;">
+                <span id="notif-pesan"></span>
+            </div>
+
+            <button id="btn-toggle-form" style="margin-bottom: 20px;">+ Tampilkan / Sembunyikan Form Tambah Menu</button>
+
+            <form id="form-tambah-menu" style="display: none; text-align: left;">
+                <label style="font-weight: bold;">Nama Makanan / Tempat:</label>
+                <input type="text" id="input-nama" placeholder="Contoh: Nasi Padang">
+                
+                <label style="font-weight: bold;">Kategori:</label>
+                <input type="text" id="input-kategori" placeholder="Contoh: Berat, Ringan">
+                
+                <button type="submit" style="background-color: #1976d2;">Simpan Menu</button>
+            </form>
         </div>
     </main>
+
     <footer>
-        <p>&copy; 2026 Putu Gede Danu Mertha Teja - Tugas Web</p>
+        © 2026 Putu Gede Danu Mertha Teja - Tugas Web
     </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
