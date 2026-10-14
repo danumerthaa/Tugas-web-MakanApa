@@ -1,3 +1,7 @@
+Link video : https://drive.google.com/file/d/1LqKIvThi6tUDdR5b2zud2YcCtksunCh5/view?usp=sharing
+<img width="1917" height="976" alt="tambah menu js" src="https://github.com/user-attachments/assets/e41dd0ee-66a7-4a95-ac54-22b4227554fc" />
+<img width="1917" height="980" alt="halaman utama js" src="https://github.com/user-attachments/assets/48171807-3924-4441-b17d-d29c1eac9eba" />
+<img width="1917" height="977" alt="form tambah menu" src="https://github.com/user-attachments/assets/12bf689b-3add-462a-8aa5-703c06c65522" />
 <img width="1907" height="1072" alt="tailwind css tambah menu" src="https://github.com/user-attachments/assets/58321f6e-86eb-4e90-ba8f-ef834aab03f5" />
 <img width="1917" height="1076" alt="tailwind css halaman utama " src="https://github.com/user-attachments/assets/63280070-8b78-4908-b68a-ce62f0fb25c5" />
 <img width="1897" height="1062" alt="Tailwind css daftar menu" src="https://github.com/user-attachments/assets/b9438b53-92a6-49fe-a558-d2d7cb6727b5" />
